@@ -4,8 +4,8 @@
 🚀 **Passionate about building AI-driven solutions for real-world problems.**  
 
 🔍 **Currently Working On:** **Computer Vision applications & Deep Learning models.**  
-📚 **Learning:** **Data Science, Advanced Deep Learning & Generative AI.**  
-💡 **Looking for:** **Open-source collaborations & research opportunities.**  
+📚 **Learning:** **Data Science, Deep Learning & Generative AI.**  
+💡 **Looking for:** **Open-source collaborations.**  
 
 🔗 **Portfolio:** [HamseIsmail.com](#)  
 📫 **Reach me at:** [HamseMohamed010@gmail.com](#)  
@@ -16,8 +16,8 @@
 🔹 **Languages:** Python, R, SQL  
 🔹 **ML & DL:** TensorFlow, PyTorch, Scikit-learn  
 🔹 **Computer Vision:** OpenCV, YOLO, Detectron2  
-🔹 **Data & Deployment:** Numpy, Pandas, Seaborn, Matplotlib, FastAPI, Flask, Docker  
-🔹 **Tools:** Jupyter Notebook, Git, DVC  
+🔹 **Data & Deployment:** Numpy, Pandas, Seaborn, Matplotlib, FastAPI  
+🔹 **Tools:** Jupyter Notebook, Git 
 
 ---
 
@@ -46,6 +46,6 @@
 ---
 
 ## 📢 **Let's Connect!**  
-🔗 [**LinkedIn**](#)  
+🔗 [**LinkedIn**](https://www.linkedin.com/in/hamse-mohamed-ds-101410243/)  
 💬 [**Twitter**](#)  
 🌍 [**Portfolio Website**](HamseIsmail.com)  
