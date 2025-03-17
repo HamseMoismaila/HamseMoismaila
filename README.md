@@ -3,7 +3,7 @@
 
 🚀 **Passionate about building AI-driven solutions for real-world problems.**  
 
-🔍 **Currently Working On:** **Computer Vision applications & Deep Learning models.**  
+🔍 **Currently Working On:** **Computer Vision applications & Data Science Application.**  
 📚 **Learning:** **Data Science, Deep Learning & Generative AI.**  
 💡 **Looking for:** **Open-source collaborations.**  
 
