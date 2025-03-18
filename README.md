@@ -4,8 +4,6 @@
 🚀 **Passionate about building AI-driven solutions for real-world problems.**  
 
 🔍 **Currently Working On:** **Computer Vision applications & Data Science Application.**  
-📚 **Learning:** **Data Science, Deep Learning & Generative AI.**  
-💡 **Looking for:** **Open-source collaborations.**  
 
 🔗 **Portfolio:** [HamseIsmail.com](#)  
 📫 **Reach me at:** [HamseMohamed010@gmail.com](#)  
@@ -14,10 +12,10 @@
 
 ## 🚀 **My Tech Stack**  
 🔹 **Languages:** Python, R, SQL  
-🔹 **ML & DL:** TensorFlow, PyTorch, Scikit-learn  
+🔹 **ML & DL:** TensorFlow
 🔹 **Computer Vision:** OpenCV, YOLO, Detectron2  
 🔹 **Data & Deployment:** Numpy, Pandas, Seaborn, Matplotlib, FastAPI  
-🔹 **Tools:** Jupyter Notebook, Git 
+🔹 **Tools:** Jupyter Notebook 
 
 ---
 
