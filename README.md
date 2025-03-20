@@ -1,7 +1,7 @@
 #  👋🏽**Hamse Mohamed**  
 📌 **Machine Learning | Computer Vision | Data Science**  
 
-🚀 **Passionate about building AI-driven solutions for real-world problems.**  
+🚀 
 
 🔍 **Currently Working On:** **Computer Vision applications & Data Science Application.**  
 
