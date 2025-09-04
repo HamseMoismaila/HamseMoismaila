@@ -1,5 +1,5 @@
 #  👋🏽**Hamse Mohamed**  
-📌 **Machine Learning | Computer Vision | Data Science**  
+📌 **Machine Learning| Data Science**  
 
 🚀 
 
