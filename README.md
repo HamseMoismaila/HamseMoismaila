@@ -17,22 +17,6 @@
 🔹 **Data & Deployment:** Numpy, Pandas, Seaborn, Matplotlib, FastAPI  
 🔹 **Tools:** Jupyter Notebook 
 
----
-
-## 📌 **Featured Projects**  
-
-### 🔍 **1️⃣ Object Detection with YOLOv8**  
-🖼️ Built an object detection model using **YOLOv8**, trained on a custom dataset.  
-📊 Achieved **92% mAP** on test images.  
-🚀 Deployed using **Flask & Streamlit**.  
-
-### 📝 **2️⃣ OCR & Text Recognition**  
-📄 Developed an OCR system using **Tesseract & OpenCV**.  
-🎯 Works with **scanned documents & real-world images**.  
-
-### 🧠 **3️⃣ Predicting Animal Health with ML**  
-🔬 Analyzed farm animal health data & built an **ML model** to predict health risks.  
-📊 Explored **correlations between weight, age & health status**.  
 
 ---
 
