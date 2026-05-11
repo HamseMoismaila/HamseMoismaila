@@ -1,7 +1,7 @@
 > whoami
 
-> focus
-> data engineering | analytics
+> studentOfLife
+> 
 
 > status
 > learning & building
