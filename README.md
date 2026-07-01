@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hamze
 
-I am a systems-oriented **AI & Data Engineer** and a Computer Science student (specializing in Data Science) based in Malaysia. I design and build **deterministic agentic workflows, Model Context Protocol (MCP) servers, and robust data pipelines** to bridge the gap between LLMs and enterprise operations.
+I am a systems-oriented **AI & Data Engineer**. I design and build **deterministic agentic workflows, Model Context Protocol (MCP) servers, and robust data pipelines** to bridge the gap between LLMs and enterprise operations.
 
 ---
 
@@ -10,6 +10,19 @@ I am a systems-oriented **AI & Data Engineer** and a Computer Science student (s
 *   **[HamzeOS](https://github.com/HamseMoismaila/HamzeOS)** — A personal AI operating system utilizing structured markdown files as system context, working memory, and long-term memory for developer agents.
 *   **Invoice-to-PO Reconciliation Engine** — An automated financial reconciliation agent built with a custom SQLite-backed MCP server and schema validation.
 *   **Support Ticket Router** — A graph-orchestrated support ticket classifier and resolver built using Google ADK 2.0 and custom intent classification models.
+
+---
+
+### 📊 Activity & Performance Graphs
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HamseMoismaila&show_icons=true&theme=tokyonight&count_private=true" alt="Hamze's GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamseMoismaila&layout=compact&theme=tokyonight" alt="Hamze's Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HamseMoismaila&theme=tokyonight" alt="Hamze's Streak Stats" width="98%" />
+</p>
 
 ---
 
@@ -24,9 +37,8 @@ I am a systems-oriented **AI & Data Engineer** and a Computer Science student (s
 
 ---
 
-### 🎓 Education & Certifications
+### 🎓 Certifications & Training
 
-*   **B.Sc. in Computer Science (Data Science)** — *Nilai University, Malaysia (In Progress)*
 *   **Google Agentic GenAI Intensive Course** — *Kaggle & Google Developer (June 2026)*
 
 ---
