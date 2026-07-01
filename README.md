@@ -21,7 +21,7 @@ I am a systems-oriented **AI & Data Engineer**. I design and build **determinist
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HamseMoismaila&theme=tokyonight" alt="Hamze's Streak Stats" width="98%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HamseMoismaila&theme=tokyonight&area=true&hide_border=true" alt="Hamze's GitHub Activity Graph" width="98%" />
 </p>
 
 ---
@@ -40,11 +40,3 @@ I am a systems-oriented **AI & Data Engineer**. I design and build **determinist
 ### 🎓 Certifications & Training
 
 *   **Google Agentic GenAI Intensive Course** — *Kaggle & Google Developer (June 2026)*
-
----
-
-### 📬 Connect with Me
-
-*   **LinkedIn:** [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername) *(Placeholder)*
-*   **Email:** [your.email@example.com](mailto:your.email@example.com) *(Placeholder)*
-*   **Portfolio:** [Lumina Portfolio](https://github.com/HamseMoismaila/HamzeOS) *(Active build in this repo)*
