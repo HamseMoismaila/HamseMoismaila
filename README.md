@@ -35,8 +35,4 @@ I am a systems-oriented **AI & Data Engineer**. I design and build **determinist
 | **Languages & Frameworks** | Python, TypeScript, JavaScript, React, Vite, Node.js, Express, HTML5/CSS3 |
 | **Tools & Infrastructure** | Git, Docker, CLI Tooling, Linux/Shell scripting, Jest, pytest |
 
----
 
-### 🎓 Certifications & Training
-
-*   **Google Agentic GenAI Intensive Course** — *Kaggle & Google Developer (June 2026)*
