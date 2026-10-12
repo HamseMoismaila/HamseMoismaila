@@ -1,6 +1,6 @@
 # Hamze is Here
 
-Yeah, I do some **AI and alot of Data Engineer/Analytics**
+Yeah, I do some **AI and alot of Data Engineering/Analytics**
 
 ---
 
