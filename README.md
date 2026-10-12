@@ -1,6 +1,6 @@
 # Hamze is Here
 
-I do some **AI and Alot of Data Engineer**
+Yeah, I do some **AI and alot of Data Engineer/Analytics**
 
 ---
 
@@ -22,7 +22,7 @@ I do some **AI and Alot of Data Engineer**
 | Domain | Technologies |
 | :--- | :--- |
 | **Agentic Engineering** | Model Context Protocol (MCP), Google ADK 2.0, Agent CLI, Context Routing, AI Evaluation Sets |
-| **Data Engineering** | SQL, PostgreSQL, SQLite, MySQL, SingleStore, ETL Pipelines |
+| **Data Engineering** | SQL, PostgreSQL, SQLite, MySQL, SingleStore, ETL Pipelines | ML
 | **Languages & Frameworks** | Python, TypeScript, JavaScript, React |
 | **Tools & Infrastructure** | Git, Docker, CLI Tooling, Linux/Shell scripting, Jest, pytest |
 
