@@ -1,6 +1,6 @@
 # Hamze is Here
 
-Yeah, I do some **AI and alot of Data Engineering/Analytics now Iinterested in GEOAI**
+Yeah, I do some **AI and alot of Data Engineering/Analytics now Im interested in GEOAI**
 
 ---
 
