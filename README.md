@@ -4,19 +4,6 @@ Yeah, I do some **AI and alot of Data Engineering/Analytics now Im interested in
 
 ---
 
-### 📊 Activity & Performance Graphs
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HamseMoismaila&show_icons=true&theme=tokyonight&count_private=true" alt="Hamze's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamseMoismaila&layout=compact&theme=tokyonight" alt="Hamze's Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HamseMoismaila&theme=tokyonight&area=true&hide_border=true" alt="Hamze's GitHub Activity Graph" width="98%" />
-</p>
-
----
-
 ### 🛠️ Core Tech Stack & Tools
 
 | Domain | Technologies |
